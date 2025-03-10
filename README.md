@@ -29,6 +29,3 @@ You can view my portfolio live at: [GitHub Pages Link] *(Update this if hosted o
 - **GitHub**: [SREEMATHI0974](https://github.com/SREEMATHI0974)
 - **LinkedIn**: [Sreemathi E](https://www.linkedin.com/in/sreemathi-e-b375b4278)
 - **Email**: [kit.25.21bado54@gmail.com](mailto:kit.25.21bado54@gmail.com)
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
